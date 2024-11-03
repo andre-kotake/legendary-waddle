@@ -1,4 +1,4 @@
-*nvim-plugin-template.txt*     For NVIM v0.8.0     Last change: 2024 August 27
+*nvim-plugin-template.txt*    For NVIM v0.8.0    Last change: 2024 November 03
 
 ==============================================================================
 Table of Contents                     *nvim-plugin-template-table-of-contents*
@@ -15,7 +15,7 @@ Table of Contents                     *nvim-plugin-template-table-of-contents*
 1. nvim-plugin-template            *nvim-plugin-template-nvim-plugin-template*
 
 Neovim plugin template; includes automatic documentation generation from
-README, integration tests with Busted, and linting with Stylua
+README, integration tests with Busted, and linting with Stylua yeah
 
 
 USAGE                        *nvim-plugin-template-nvim-plugin-template-usage*
