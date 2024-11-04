@@ -1,4 +1,5 @@
 # nvim-plugin-template
+![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)
 
 Neovim plugin template; includes automatic documentation generation from README, integration tests with Busted, and linting with Stylua
 yeah
