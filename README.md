@@ -2,6 +2,7 @@
 
 A NeoVim plugin written in Lua that integrates with [chezmoi](https://www.chezmoi.io/).
 
+Teste
 ## Requirements
 
 - Neovim
